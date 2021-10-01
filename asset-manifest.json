@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-mobx-do-1/static/css/main.d5c3e20a.chunk.css",
+    "main.js": "/react-mobx-do-1/static/js/main.2becdacb.chunk.js",
+    "main.js.map": "/react-mobx-do-1/static/js/main.2becdacb.chunk.js.map",
+    "runtime-main.js": "/react-mobx-do-1/static/js/runtime-main.4eb4a819.js",
+    "runtime-main.js.map": "/react-mobx-do-1/static/js/runtime-main.4eb4a819.js.map",
+    "static/js/2.e761df8d.chunk.js": "/react-mobx-do-1/static/js/2.e761df8d.chunk.js",
+    "static/js/2.e761df8d.chunk.js.map": "/react-mobx-do-1/static/js/2.e761df8d.chunk.js.map",
+    "static/js/3.4cad14e6.chunk.js": "/react-mobx-do-1/static/js/3.4cad14e6.chunk.js",
+    "static/js/3.4cad14e6.chunk.js.map": "/react-mobx-do-1/static/js/3.4cad14e6.chunk.js.map",
+    "index.html": "/react-mobx-do-1/index.html",
+    "static/css/main.d5c3e20a.chunk.css.map": "/react-mobx-do-1/static/css/main.d5c3e20a.chunk.css.map",
+    "static/js/2.e761df8d.chunk.js.LICENSE.txt": "/react-mobx-do-1/static/js/2.e761df8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eb4a819.js",
+    "static/js/2.e761df8d.chunk.js",
+    "static/css/main.d5c3e20a.chunk.css",
+    "static/js/main.2becdacb.chunk.js"
+  ]
+}
